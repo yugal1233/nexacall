@@ -152,6 +152,6 @@ MIT License. See `LICENSE` file for details.
 
 ## 📬 Contact
 
-Built with ❤️ by [Your Name]  
+Built with ❤️ by Yugal Manwani  
 📧 Email: yugalmanwani@email.com  
 🌐 [Portfolio](https://yugal-manwani.vercel.app)
